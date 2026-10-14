@@ -1,0 +1,3 @@
+Welcome to the Python and Bash DevOps Assignment.
+Task 3: Writing data to a text file.
+Python makes file handling simple and efficient.
